@@ -19,7 +19,15 @@ A double press of the encoder button saves the time/date/alarm settings and retu
 
 Buttons:
 
-1. Normal button(hold) - change from show time mode to main menu and back; if alarm ring - stop alarm.
+1. Normal button(hold 2 sec) - change from show time mode to main menu and back; if alarm ring - stop alarm.
 2. Encoder button(one click) - choose the items in the menus and move forward while the time/date/alarm (numbers) setting; if alarm ring - snooze alarm for 7 minues.
 3. Encoder button(double-click) - save the time/date/alarm.
 4. Encoder rotator - change the numbers by setting; move the indicator ">" from item to item in menus.
+
+Show time mode:
+![image](https://github.com/user-attachments/assets/d53a1177-6d12-4468-81b8-62c79e71887c)
+
+Press the button -> main menu: ![image](https://github.com/user-attachments/assets/f5737ea2-392f-4e67-bcb4-5cd18588160b)
+
+Press the encoder button in the mein menu -> set the date(day) ![image](https://github.com/user-attachments/assets/67da57ab-e2f3-4507-9639-5d1b3b634e15)
+
